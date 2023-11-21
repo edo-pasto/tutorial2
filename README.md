@@ -6,4 +6,4 @@ Bla bla bla.... coglioneeeee
 
 1. Opend index.html in your browser
 
-2. modified master
+2. modified by master
