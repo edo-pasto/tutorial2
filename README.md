@@ -10,8 +10,4 @@ Bla bla bla.... coglioneeeee
 
 3. modified by test
 
-<<<<<<< HEAD
-4. modified by test again
-=======
 4. modified by test2
->>>>>>> test2
