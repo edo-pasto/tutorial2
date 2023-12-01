@@ -16,4 +16,4 @@ Bla bla bla.... coglioneeeee
 
 6. craft commit
 
-7. conflict master
+7. conflict
