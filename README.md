@@ -17,3 +17,7 @@ Bla bla bla.... coglioneeeee
 6. craft commit
 
 7. conflict
+
+8. action 1
+
+9. action 2
