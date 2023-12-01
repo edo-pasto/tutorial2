@@ -15,3 +15,5 @@ Bla bla bla.... coglioneeeee
 5. separate commit
 
 6. craft commit
+
+7. conflict master
